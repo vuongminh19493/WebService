@@ -1,0 +1,6 @@
+C:\Users\MINHVC\source\repos\DemoRESTServiceCRUD\DemoRESTServiceCRUD\bin\DemoRESTServiceCRUD.dll.config
+C:\Users\MINHVC\source\repos\DemoRESTServiceCRUD\DemoRESTServiceCRUD\bin\DemoRESTServiceCRUD.dll
+C:\Users\MINHVC\source\repos\DemoRESTServiceCRUD\DemoRESTServiceCRUD\bin\DemoRESTServiceCRUD.pdb
+C:\Users\MINHVC\source\repos\DemoRESTServiceCRUD\DemoRESTServiceCRUD\obj\Debug\DemoRESTServiceCRUD.csprojAssemblyReference.cache
+C:\Users\MINHVC\source\repos\DemoRESTServiceCRUD\DemoRESTServiceCRUD\obj\Debug\DemoRESTServiceCRUD.dll
+C:\Users\MINHVC\source\repos\DemoRESTServiceCRUD\DemoRESTServiceCRUD\obj\Debug\DemoRESTServiceCRUD.pdb
